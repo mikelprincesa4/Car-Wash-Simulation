@@ -1,5 +1,5 @@
 # Car-Wash-Simulation
-Runs a simulation of a full work day(8 hours) of a car wash.
+Runs a simulation of a full work day(8 hours) of Ethan's Car Wash.
 For each minute a shift the program is to:
   -queue customers when they arrive as long as there are less than 4 in line
   -if there are more then 4 cars in line the next car will leave
