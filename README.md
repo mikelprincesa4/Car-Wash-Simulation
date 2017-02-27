@@ -12,4 +12,4 @@ At the end of a shift the program is to:
   -average wait time in minutes
   -longest wait time in minutues
   -record number of customers that bypassed the car wash
-Program created in collaboration with partner David Hass for Linear Data Structures Course.
+Program created in collaboration with partner David Hass.
